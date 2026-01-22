@@ -43,7 +43,7 @@ This repository aims to:
 
 ## **Technologies and Concepts**
 
-- **Programming Language:** C++ (C++11 standard or later)  
+- **Programming Language:** C++
 - **Core Concepts:** Algorithms, Data Structures, Problem-Solving, Competitive Programming  
 - **Platform:** [CSES Problem Set](https://cses.fi/problemset/)  
 - **Techniques Applied:** Sorting, Searching, Recursion, Dynamic Programming, Graph Theory, Trees, Bitwise Operations, Sliding Window, Advanced Graph & Mathematical Algorithms  
